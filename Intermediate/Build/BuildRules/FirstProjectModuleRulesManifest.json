@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\s.tangarife\\UnrealProjects\\FirstProject\\Source\\FirstProject\\FirstProject.Build.cs",
+		"D:\\s.tangarife\\UnrealProjects\\FirstProject\\Source\\FirstProject.Target.cs",
+		"D:\\s.tangarife\\UnrealProjects\\FirstProject\\Source\\FirstProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
