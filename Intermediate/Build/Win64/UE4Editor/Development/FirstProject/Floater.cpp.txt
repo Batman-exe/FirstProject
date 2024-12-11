@@ -1,3 +1,0 @@
-D:\s.tangarife\UnrealProjects\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
-D:\s.tangarife\UnrealProjects\FirstProject\Source\FirstProject\GameplayActors\Floater.h
-D:\s.tangarife\UnrealProjects\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Floater.generated.h
